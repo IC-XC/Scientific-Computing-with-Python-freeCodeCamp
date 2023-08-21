@@ -9,4 +9,4 @@ Certification projects:
 • Polygon Area Calculator
 • Probability Calculator
 
-freeCodeCamp/assets/86513555/fa64a294-6444-4e49-91c4-e11f61584247)
+! freeCodeCamp/assets/86513555/fa64a294-6444-4e49-91c4-e11f61584247)
