@@ -3,7 +3,7 @@
 
 Certification projects:
 
-• Arithmetic Formatter
+* Arithmetic Formatter
 • Time Calculator
 • Budget App
 • Polygon Area Calculator
